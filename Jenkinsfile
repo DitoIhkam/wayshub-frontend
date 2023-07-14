@@ -1,10 +1,10 @@
 def branch = "main"
-def repo = "git@github.com:DitoIhkam/dw_kelompokdua.git"
+def repo = "git@github.com:DitoIhkam/wayshub-frontend.git"
 def cred = "appserver"
 def dir = "~/wayshub-frontend"
 def server = "app-server@103.172.204.253"
 def imagename = "wayshub-fe"
-def dockerusername = "wayshub"
+def dockerusername = "kelompok2"
 
 pipeline {
     agent any
