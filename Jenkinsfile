@@ -4,7 +4,7 @@ def cred = "appserver"
 def dir = "~/wayshub-frontend"
 def server = "app-server@103.172.204.253"
 def imagename = "wayshub-fe"
-def dockerusername = "kelompok2"
+def dockerusername = "wayshub"
 
 pipeline {
     agent any
